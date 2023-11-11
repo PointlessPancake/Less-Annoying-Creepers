@@ -1,0 +1,5 @@
+name: LessAnnoyingCreepers
+version: '${project.version}'
+main: dev.snas.lessannoyingcreepers.LessAnnoyingCreepers
+api-version: '1.20'
+folia-supported: true
